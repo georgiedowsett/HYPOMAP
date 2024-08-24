@@ -6,9 +6,13 @@ This repository contains the analysis scripts for the spatial transcriptomics as
 
 ## Installation
 
-The following docker was used to perform the cell2location pipeline 
+The following docker image was used to perform the cell2location pipeline 
 ```bash
 docker pull brianlamx/cell2location
+```
+The following docker image used to perform analysis using R
+```bash 
+docker pull brianlamx/seurat_rstudio
 ```
     
 ## Documentation

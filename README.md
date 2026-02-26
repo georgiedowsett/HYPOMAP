@@ -32,7 +32,9 @@ Each analysis script found in [Cell2lLocation_and_ST_analysis](https://github.co
  [9_Regional_assignment_thresholding.r](https://github.com/georgiedowsett/HYPOMAP/blob/main/Cell2Location_and%20_ST_analysis/9_Regional_assignment_thresholding.r) Assigns a region to each snRNAseq cluster at the C3 level. 
 
 
+## Dataset availability
 
+The processed spatial transcriptomics RDS file is available [here](https://www.repository.cam.ac.uk/items/cad1c61a-e4e5-4443-ad11-92e4f48b3861)
  
 
 
